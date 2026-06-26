@@ -19,7 +19,7 @@ Direct transitions from full-precision (FP32) to ultra-low-bit (e.g., W4A4) regi
 3. **Block-wise Reconstruction:** Guided reconstruction to preserve signal variance and align feature magnitudes with the low-bit student.
 
 <p align="center">
-  <img src="figures/crown_jewel.png" width="600">
+  <img src="figures/figure1-ta.png" width="600">
   <br>
   <em>ZEST bridges the representation gap by proposing an intermediate assistant model, achieving superior accuracy compared to direct data-free quantization.</em>
 </p>
