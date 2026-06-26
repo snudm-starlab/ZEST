@@ -2,7 +2,7 @@
 A paper accepted to ECCV 2026, a top tier AI conference. The paper "Accurate Zero-shot Quantization via Hierarchical Teacher-Assistant Distillation" proposed an accurate zero-shot quantization framework using TA model for image classification models.
 
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](#) 
 
 > **Accurate Zero-shot Quantization via Hierarchical Teacher-Assistant Distillation** > Wonjin Cho, Jeongin Yun, and U Kang (Seoul National University)  
 > *Accepted at [ECCV 2026]*
@@ -50,7 +50,7 @@ Direct transitions from full-precision (FP32) to ultra-low-bit (e.g., W4A4) regi
 
 ```bash
 # Clone the repository
-git clone [https://github.com/snudm-starlab/ZEST.git](https://github.com/snudm-starlab/ZEST.git)
+git clone https://github.com/snudm-starlab/ZEST.git
 cd ZEST
 
 # Install dependencies
@@ -68,6 +68,8 @@ python main_two_stage_refine.py \
 ```
 
 ## Citation
+If you use this code, please cite the following paper.
+
 ```
 @inproceedings{cho2026zest,
   title={Accurate Zero-shot Quantization via Hierarchical Teacher-Assistant Distillation},
