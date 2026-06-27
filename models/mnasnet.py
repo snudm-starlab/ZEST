@@ -1,3 +1,9 @@
+"""
+PyTorch implementation of MNASNet architectures.
+Incorporates identity layers to ensure compatibility with residual quantization.
+"""
+
+
 # !/usr/bin/env python
 
 import torch
