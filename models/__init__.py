@@ -1,3 +1,9 @@
+"""
+Model initialization and registry module.
+Handles architecture routing, instantiation, and loading of pretrained weights.
+"""
+
+
 import torch
 import models.mnasnet, models.mobilenetv2, models.regnet, models.resnet, models.mobilenetb
 
