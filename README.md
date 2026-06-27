@@ -69,7 +69,7 @@ python main_two_stage_refine.py \
     --recon_batch 32
 ```
 
-## Citation
+## Reference
 If you use this code, please cite the following paper.
 
 ```
