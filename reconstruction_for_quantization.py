@@ -1,3 +1,10 @@
+"""
+File Name   : reconstruction_for_quantization.py
+Description : Specialized block-wise reconstruction logic specifically tailored for transferring knowledge from an intermediate W8A8 TA to an ultra-low-bit W4A4 student.
+Author      : Wonjin Cho (chowonjin0627@snu.ac.kr) Jeongin Yun (yji00828@snu.ac.kr) U Kang (ukang@snu.ac.kr), Seoul National University
+"""
+
+
 
 import logging
 import torch
