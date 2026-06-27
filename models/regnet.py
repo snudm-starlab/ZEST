@@ -1,3 +1,9 @@
+"""
+PyTorch implementation of RegNet (X and Y) design spaces.
+Modified with skip connections tailored for residual quantization.
+"""
+
+
 # !/usr/bin/env python
 
 import math
