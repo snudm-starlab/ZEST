@@ -1,3 +1,10 @@
+"""
+File Name   : utils.py
+Description : Contains utility functions for data loading, model evaluation, and PyTorch forward hooks for activation extraction.
+Author      : Wonjin Cho (chowonjin0627@snu.ac.kr) Jeongin Yun (yji00828@snu.ac.kr) U Kang (ukang@snu.ac.kr), Seoul National University
+"""
+
+
 import torch
 from torchvision import datasets, transforms
 
