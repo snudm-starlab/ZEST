@@ -1,3 +1,9 @@
+"""
+PyTorch implementation of ResNet, ResNeXt, and Wide ResNet architectures.
+Modified to support identity mapping for residual quantization.
+"""
+
+
 # !/usr/bin/env python
 
 import torch
