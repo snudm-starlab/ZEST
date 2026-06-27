@@ -1,3 +1,9 @@
+"""
+File Name   : distill_refine.py
+Description : Refines synthetic images via pixel-level optimization to match the quantized-domain constraints (BatchNorm statistics) of a target model.
+Author      : Wonjin Cho (chowonjin0627@snu.ac.kr) Jeongin Yun (yji00828@snu.ac.kr) U Kang (ukang@snu.ac.kr), Seoul National University
+"""
+
 import logging
 import torch
 import torch.nn as nn
