@@ -1,3 +1,9 @@
+"""
+File Name   : distill.py
+Description : Generates base synthetic images from a full-precision (FP32) teacher model using a generator network and BatchNorm statistics alignment.
+Author      : Wonjin Cho (chowonjin0627@snu.ac.kr) Jeongin Yun (yji00828@snu.ac.kr) U Kang (ukang@snu.ac.kr), Seoul National University
+"""
+
 import logging
 import torch
 import torch.nn as nn
