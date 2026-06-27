@@ -4,7 +4,8 @@ A paper accepted to ECCV 2026, a top tier AI conference. The paper "Accurate Zer
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](#) 
 
-> **Accurate Zero-shot Quantization via Hierarchical Teacher-Assistant Distillation** > Wonjin Cho, Jeongin Yun, and U Kang (Seoul National University)  
+> **Accurate Zero-shot Quantization via Hierarchical Teacher-Assistant Distillation**
+> Wonjin Cho, Jeongin Yun, and U Kang (Seoul National University)  
 > *Accepted at [ECCV 2026]*
 
 This is the official PyTorch implementation of **ZEST**, a hierarchical framework for zero-shot quantization that bridges the precision gap in ultra-low-bit networks using a Teacher Assistant (TA) stepping stone.
