@@ -1,3 +1,9 @@
+"""
+File Name   : quantizer.py
+Description : Contains core quantization modules (WeightQuantizer, ActivationQuantizer) implementing step-size learning and AdaRound-style techniques.
+Author      : Wonjin Cho (chowonjin0627@snu.ac.kr) Jeongin Yun (yji00828@snu.ac.kr) U Kang (ukang@snu.ac.kr), Seoul National University
+"""
+
 import logging
 import torch
 from torch import nn
