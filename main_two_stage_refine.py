@@ -1,3 +1,10 @@
+"""
+File Name   : main_two_stage_refine.py
+Description : Main entry point for the ZEST hierarchical zero-shot quantization pipeline, managing progressive stages and data refinement.
+Author      : Wonjin Cho (chowonjin0627@snu.ac.kr) Jeongin Yun (yji00828@snu.ac.kr) U Kang (ukang@snu.ac.kr), Seoul National University
+"""
+
+
 import logging
 import torch
 import torch.nn as nn
