@@ -1,3 +1,10 @@
+"""
+File Name   : reconstruct.py
+Description : Provides the standard block-wise reconstruction logic for matching student feature maps to the teacher model.
+Author      : Wonjin Cho (chowonjin0627@snu.ac.kr) Jeongin Yun (yji00828@snu.ac.kr) U Kang (ukang@snu.ac.kr), Seoul National University
+"""
+
+
 import logging
 import copy
 import torch
