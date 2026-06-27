@@ -5,6 +5,7 @@ A paper accepted to ECCV 2026, a top tier AI conference. The paper "Accurate Zer
 [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](#) 
 
 > **Accurate Zero-shot Quantization via Hierarchical Teacher-Assistant Distillation**
+
 > Wonjin Cho, Jeongin Yun, and U Kang (Seoul National University)  
 > *Accepted at [ECCV 2026]*
 
