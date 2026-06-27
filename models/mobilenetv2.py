@@ -1,3 +1,8 @@
+"""
+PyTorch implementation of MobileNetV2.
+Customized with identity layers to enable proper residual quantization.
+"""
+
 # !/usr/bin/env python
 
 import math
